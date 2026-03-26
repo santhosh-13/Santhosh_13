@@ -42,7 +42,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=4287f5)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
 
@@ -52,7 +51,8 @@
 
 <p align="center">
 <a href="https://github.com/santhosh-13">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=santhosh-13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santhosh-13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;&nbsp;
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-13&theme=tokyonight" alt="santhosh-13" />
 </a>
 </p>
