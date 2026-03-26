@@ -50,10 +50,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/santhosh-13">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh-13&show_icons=true&locale=en&layout=compact" alt="santhosh-13" /></p>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santhosh-13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-13&theme=tokyonight" alt="santhosh-13" />
-</a>
+  <a href="https://github.com/santhosh-13">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-13&layout=compact&theme=tokyonight" />
+    &nbsp;
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=santhosh-13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    &nbsp;
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-13&theme=tokyonight" alt="santhosh-13" />
+  </a>
 </p>
