@@ -1,10 +1,10 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Santhosh</h1>
 <h3 align="center">Automation Test Engineer | Backend Developer</h3>
-<h4>> Software Engineer focused on building robust Backend systems** and high-coverage Automation frameworks. I thrive on breaking down complex architectural problems and optimizing code performance.</h4>
+<h4> Software Engineer focused on building robust Backend systems** and high-coverage Automation frameworks. I thrive on breaking down complex architectural problems and optimizing code performance.</h4>
 <p><img align="right" height="430em" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="santhosh" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=santhosh-13&label=Profile%20views&color=e89b17&style=flat" alt="santhosh" /> </p>
 
 
 
@@ -44,7 +44,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=4287f5)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
 
 
 
